@@ -9,3 +9,21 @@ body {
 h1 {
     color: cadetblue;
 }
+main {
+    border: 2px solid rgba(82, 155, 197, 0.219);
+    padding: 30px;
+}
+
+.container{
+    margin: 0 auto ;
+    width: 50%;
+    padding: 10px;
+    border:1px solid rgba(56, 150, 194, 0.658);
+}
+
+footer {
+    font-size: 20px;
+    color: rgb(4, 56, 167);
+    font-family:monospace;
+    text-shadow: 3px 3px #32166b18;
+}
